@@ -963,6 +963,28 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/img\/Siteline_clr.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2445,
+		"inputAbbreviatedPath": "\/img\/Siteline_clr.png",
+		"outputAbbreviatedPath": "\/img\/Siteline_clr.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Siteline_clr_s_only_sm.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7158,
+		"inputAbbreviatedPath": "\/img\/Siteline_clr_s_only_sm.png",
+		"outputAbbreviatedPath": "\/img\/Siteline_clr_s_only_sm.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
